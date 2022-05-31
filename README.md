@@ -4,7 +4,7 @@
 
 #### Code & Files
 - [anomalyDetection.ipynb](https://colab.research.google.com/drive/1qQc0GQi--4kCBnAHYNxAM_j17VB7lpW_?usp=sharing)
-- [data.csv]()
+- [data](https://drive.google.com/drive/folders/1DRRd9unonU7O5rAI9WpEEAHHGxJq2SNs?usp=sharing)
 </br>
 <br/>
 

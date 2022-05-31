@@ -16,7 +16,7 @@ Futuremore, an anomaly detection algorithm is also more **preferable** than supe
 - many different types of positive classes (i.e. labels of anomalies) that are hard(er) for supervised learning algorithms to learn from
 - future anomalies may be potentially deviate from training examples significantly
 
-_This project is partially implemented following resources provided by the original Machine Learning course by Andrew Ng in collaboration with the University of Stanford._
+_This project is partially implemented leveraging resources provided by the original Machine Learning course by Andrew Ng in collaboration with the University of Stanford._
 </br>
 </br>
 <br/>

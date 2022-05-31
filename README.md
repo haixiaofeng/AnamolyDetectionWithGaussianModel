@@ -11,7 +11,7 @@
 #### Motivation
 Understanding and developing a framework / more generalized pipeline for anomaly detection yields use cases in many areas. For example, a factory may use a version of algorithm/system for automatically detecting newly manufactured products that do not satisfy qualify control requirements to save costs (i.e. from manual inspections) and improve efficiency (i.e. machines can infer/detect anomalies faster). An anomaly detection algorithm also involves and therefore its implementation consolidates some knowledge on Gaussian (Normal) Distributions and other statistics-related topics.
 
-Futuremore, an anomaly detection algorithm is also more preferable than supervised learning/classification algorithms in several cases, i.e.:
+Futuremore, an anomaly detection algorithm is also more **preferable** than supervised learning/classification algorithms in several cases, i.e.:
 - the number of positive examples (i.e. the cases of anomalies) are very small, usually between 0 ~ 20
 - many different types of positive classes (i.e. labels of anomalies) that are hard(er) for supervised learning algorithms to learn from
 - future anomalies may be potentially deviate from training examples significantly

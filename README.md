@@ -1,4 +1,4 @@
-### Anomaly Detection With Gaussian Model (ADGM)
+### Anomaly Detection & Gaussian Model (ADGM)
 </br>
 </br>
 
